@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Pressure/MPL115A1:MPL115A1",
+  "name": "MPL115A1",
+  "library": "Sensor_Pressure",
+  "file": "Sensor_Pressure.kicad_symdir/MPL115A1.kicad_sym",
+  "description": "SPI Digital Barometer",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/MPL115A1.pdf",
+  "keywords": "spi barometer thermometer mems",
+  "footprint": "Package_LGA:NXP_LGA-8_3x5mm_P1.25mm_H1.2mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-pressure@master/parts/MPL115A1/",
+  "part_path": "parts/MPL115A1",
+  "symbol_file": "parts/MPL115A1/MPL115A1.kicad_sym",
+  "source_library": "Sensor_Pressure.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:21.559Z"
+}

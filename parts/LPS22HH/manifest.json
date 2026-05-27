@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Pressure/LPS22HH:LPS22HH",
+  "name": "LPS22HH",
+  "library": "Sensor_Pressure",
+  "file": "Sensor_Pressure.kicad_symdir/LPS22HH.kicad_sym",
+  "description": "MEMS nano pressure sensor, 260-1260 hPa, absolute digital output baromeeter, 24 bit, SPI, I2C, I3C, 0.65 Pa noise rms, ST_HLGA-10L",
+  "datasheet": "https://www.st.com/resource/en/datasheet/lps22hh.pdf",
+  "keywords": "mems absolute baromeeter spi i2c i3c pressure",
+  "footprint": "Package_LGA:ST_HLGA-10_2x2mm_P0.5mm_LayoutBorder3x2y",
+  "extends": "LPS25HB",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-pressure@master/parts/LPS22HH/",
+  "part_path": "parts/LPS22HH",
+  "symbol_file": "parts/LPS22HH/LPS22HH.kicad_sym",
+  "source_library": "Sensor_Pressure.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:21.554Z"
+}

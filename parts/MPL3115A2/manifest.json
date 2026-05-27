@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Pressure/MPL3115A2:MPL3115A2",
+  "name": "MPL3115A2",
+  "library": "Sensor_Pressure",
+  "file": "Sensor_Pressure.kicad_symdir/MPL3115A2.kicad_sym",
+  "description": "I2C precision pressure sensor with altimetry, LGA-8",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/MPL3115A2.pdf",
+  "keywords": "pressure sensor altimetry",
+  "footprint": "Package_LGA:NXP_LGA-8_3x5mm_P1.25mm_H1.1mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-pressure@master/parts/MPL3115A2/",
+  "part_path": "parts/MPL3115A2",
+  "symbol_file": "parts/MPL3115A2/MPL3115A2.kicad_sym",
+  "source_library": "Sensor_Pressure.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:21.561Z"
+}

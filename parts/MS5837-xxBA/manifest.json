@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Pressure/MS5837-xxBA:MS5837-xxBA",
+  "name": "MS5837-xxBA",
+  "library": "Sensor_Pressure",
+  "file": "Sensor_Pressure.kicad_symdir/MS5837-xxBA.kicad_sym",
+  "description": "Ultra-small, gel-filled, pressure sensor with stainless steel cap",
+  "datasheet": "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FMS5837-30BA%7FB1%7Fpdf%7FEnglish%7FENG_DS_MS5837-30BA_B1.pdf%7FCAT-BLPS0017",
+  "keywords": "pressure sensor",
+  "footprint": "Sensor_Pressure:TE_MS5837-xxBA",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-pressure@master/parts/MS5837-xxBA/",
+  "part_path": "parts/MS5837-xxBA",
+  "symbol_file": "parts/MS5837-xxBA/MS5837-xxBA.kicad_sym",
+  "source_library": "Sensor_Pressure.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:21.578Z"
+}

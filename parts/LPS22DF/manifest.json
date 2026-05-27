@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Pressure/LPS22DF:LPS22DF",
+  "name": "LPS22DF",
+  "library": "Sensor_Pressure",
+  "file": "Sensor_Pressure.kicad_symdir/LPS22DF.kicad_sym",
+  "description": "MEMS absolute pressure sensor, 260-1260 hPa, 1-200Hz ODR, 24bit, I2C/I3C/SPI interface, 2x2mm ST_HLGA-10L",
+  "datasheet": "https://www.st.com/resource/en/datasheet/lps22df.pdf",
+  "keywords": "digital barometer",
+  "footprint": "Package_LGA:ST_HLGA-10_2x2mm_P0.5mm_LayoutBorder3x2y",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-pressure@master/parts/LPS22DF/",
+  "part_path": "parts/LPS22DF",
+  "symbol_file": "parts/LPS22DF/LPS22DF.kicad_sym",
+  "source_library": "Sensor_Pressure.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:21.550Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Pressure/MS5607-02BA:MS5607-02BA",
+  "name": "MS5607-02BA",
+  "library": "Sensor_Pressure",
+  "file": "Sensor_Pressure.kicad_symdir/MS5607-02BA.kicad_sym",
+  "description": "Barometric pressure sensor, 20cm resolution, 10 to 1200 mbar, I2C and SPI interface up to 20MHz, LGA-8",
+  "datasheet": "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7FMS5607-02BA03%7FB2%7Fpdf%7FEnglish%7FENG_DS_MS5607-02BA03_B2.pdf%7FCAT-BLPS0035",
+  "keywords": "pressure SPI I2C",
+  "footprint": "Package_LGA:LGA-8_3x5mm_P1.25mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-pressure@master/parts/MS5607-02BA/",
+  "part_path": "parts/MS5607-02BA",
+  "symbol_file": "parts/MS5607-02BA/MS5607-02BA.kicad_sym",
+  "source_library": "Sensor_Pressure.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:21.572Z"
+}

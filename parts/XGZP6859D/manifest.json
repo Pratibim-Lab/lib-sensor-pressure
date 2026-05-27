@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Pressure/XGZP6859D:XGZP6859D",
+  "name": "XGZP6859D",
+  "library": "Sensor_Pressure",
+  "file": "Sensor_Pressure.kicad_symdir/XGZP6859D.kicad_sym",
+  "description": "I2C pressure sensor, 24-bit, 2.5..5.5V supply",
+  "datasheet": "https://cfsensor.com/wp-content/uploads/2025/02/XGZP6859D-Pressure-Sensor-V2.8.pdf",
+  "keywords": "cfsensor sencoch",
+  "footprint": "Sensor_Pressure:CFSensor_XGZP6859D_7x7mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-pressure@master/parts/XGZP6859D/",
+  "part_path": "parts/XGZP6859D",
+  "symbol_file": "parts/XGZP6859D/XGZP6859D.kicad_sym",
+  "source_library": "Sensor_Pressure.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:21.582Z"
+}

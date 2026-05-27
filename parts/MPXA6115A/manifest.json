@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Pressure/MPXA6115A:MPXA6115A",
+  "name": "MPXA6115A",
+  "library": "Sensor_Pressure",
+  "file": "Sensor_Pressure.kicad_symdir/MPXA6115A.kicad_sym",
+  "description": "Absolute pressure sensor, 15 to 115kPa, analog output, integrated signal conditioning, temperature compensated, SO package",
+  "datasheet": "https://www.nxp.com/docs/en/data-sheet/MPXA6115A.pdf",
+  "keywords": "absolute pressure sensor",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-pressure@master/parts/MPXA6115A/",
+  "part_path": "parts/MPXA6115A",
+  "symbol_file": "parts/MPXA6115A/MPXA6115A.kicad_sym",
+  "source_library": "Sensor_Pressure.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:21.562Z"
+}

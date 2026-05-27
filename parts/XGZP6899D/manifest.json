@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Pressure/XGZP6899D:XGZP6899D",
+  "name": "XGZP6899D",
+  "library": "Sensor_Pressure",
+  "file": "Sensor_Pressure.kicad_symdir/XGZP6899D.kicad_sym",
+  "description": "i2c differential digital, 2.5Vdc-5.5Vdc",
+  "datasheet": "https://cfsensor.com/wp-content/uploads/2022/11/XGZP6899D-Pressure-Sensor-V2.8.pdf",
+  "keywords": "differential i2c",
+  "footprint": "Sensor_Pressure:CFSensor_XGZP6899x",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-pressure@master/parts/XGZP6899D/",
+  "part_path": "parts/XGZP6899D",
+  "symbol_file": "parts/XGZP6899D/XGZP6899D.kicad_sym",
+  "source_library": "Sensor_Pressure.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:21.586Z"
+}

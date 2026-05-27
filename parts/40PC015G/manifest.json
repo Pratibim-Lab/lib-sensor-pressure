@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Pressure/40PC015G:40PC015G",
+  "name": "40PC015G",
+  "library": "Sensor_Pressure",
+  "file": "Sensor_Pressure.kicad_symdir/40PC015G.kicad_sym",
+  "description": "Gauge pressure sensor, 0 to 15PSI, 5V supply, 0.2% accuracy, integrated signal conditioning, excellent media compatibility",
+  "datasheet": "http://www.honeywellscportal.com//index.php?ci_id=138832",
+  "keywords": "gage gauge pressure sensor",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-pressure@master/parts/40PC015G/",
+  "part_path": "parts/40PC015G",
+  "symbol_file": "parts/40PC015G/40PC015G.kicad_sym",
+  "source_library": "Sensor_Pressure.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:13:21.529Z"
+}
